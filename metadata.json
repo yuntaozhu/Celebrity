@@ -1,0 +1,5 @@
+{
+  "name": "Celebrity Lookalike Finder",
+  "description": "Upload a photo to discover which Chinese celebrities you resemble. Get a bilingual (English/Chinese) analysis of your facial features, including similarity scores visualized on a radar chart and personalized 'San Ting Wu Yan' insights.",
+  "requestFramePermissions": []
+}
